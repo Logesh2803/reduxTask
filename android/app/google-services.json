@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566489472256",
+    "firebase_url": "https://handwash-93e4b.firebaseio.com",
+    "project_id": "handwash-93e4b",
+    "storage_bucket": "handwash-93e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566489472256:android:ade173a22b21e5283527e5",
+        "android_client_info": {
+          "package_name": "com.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566489472256-3cljtd1ta3tf9nnu6toef72t810fpe02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-BhBtbIz02ay0-Yg9X1mbCelFReEUK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566489472256-3cljtd1ta3tf9nnu6toef72t810fpe02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
